@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=297BFF&height=180&section=header&text=Donathan Ramalho Gonçalves&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=297BFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Donathan+Ramalho+Gonçalves;Tenho+18+anos+de+idade;Sou+de+Curitiba,+PR;Sou+estudante+de+Engenharia+de+Software;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=297BFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Donathan+Ramalho+Gonçalves;I'm+19+Years+Old;I'm+From+Curitiba,+PR;I+Study+Software+Engineering;Welcome!:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=donathanramalho&show_icons=true&count_private=true&hide_border=true&title_color=297BFF&icon_color=297BFF&text_color=c9d1d9&bg_color=0d1117" alt="Donathan Ramalho github stats" /> 
