@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=297BFF&height=180&section=header&text=Donathan Ramalho Gonçalves&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<!-- img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=297BFF&height=180&section=header&text=Donathan Ramalho Gonçalves&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/ --> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=297BFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Donathan+Ramalho+Gonçalves;I'm+19+Years+Old;I'm+From+Curitiba,+PR;I+Study+Software+Engineering;Welcome!:%29)](https://git.io/typing-svg)
 
@@ -58,4 +58,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=297BFF&height=120&section=footer"/>
+<!-- img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=297BFF&height=120&section=footer"/ -->
